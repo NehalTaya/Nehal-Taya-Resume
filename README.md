@@ -54,25 +54,39 @@ drive marketing campaigns leading to 50% incremental ROI for the clients
 
 ### Savex Technologies Pvt. Ltd., Mumbai, India
 
-#### Associate Business Manager, Nov 2018 – Feb 2021
+#### Senior Data Scientist, Nov 2018 – Feb 2021
 
-• Analyzed large datasets using SQL, R,Python which led to 40% increase in market share of 
-HP products in retail channel and recommended revenue boost strategies
+•    Developed prediction /classification models using Deep Learning, Regression ,Decision trees to forecast product/store sales for 340+ HP retail stores across India with 90% accuracy rate
+
+•    Developed advanced analytics and predictive models from design through implementation in the areas of pricing and promotion, marketing, merchandising
+
+•    Collected, validated, analyzed, interpreted, and organized sales,product ,customer  data into meaningful reports and/or summaries for management decision making process
+
+•    Utilized data mining and statistical techniques to derive business value from store, product, operations, financial, and customer transactional data
+
 
 ### Redington India Ltd., Mumbai, India
 
-#### Product Sales Specialist, Feb 2018-Oct 2018
+#### Data Scientist, Feb 2018-Oct 2018
 
-• Used data and analytics to optimize the targeting process of potential accounts in Mumbai
-which led to market share expansion of Huawei &Hitachi brands by 10%and 15%
+•    Performed statistical ,quantitiative data analysis using Pandas,Numpy ,Python, used SQL queries using joins to deliver YOY revenue growth of 5% for Dell servers
+
+•    Analyzed structured and unstructured customer,product data, built ML models, developed new concepts and creative offerings leveraging ML/AI capabilities
+
+•    Focused on  supporting pricing-specific initiatives using Data Science techniques to measure customer price sensitivity, predict customer behavior & conversion to achieve business financial and customer relationship objective
+
+•    Developed innovative data science solutions, products, and strategies across the Indian subcontinent for the Server/Desktop business
 
 ### Ingram Micro India Ltd., Mumbai, India
 
-#### Product Manager, July 2016-Dec 2017
+#### Data Scientist, July 2016-Dec 2017
 
-• Managed $13MM router distribution business of US brands Ruckus, Cisco & Lifesize
+•    Applied classification modeling techniques like Random Forest, Logistic regression, and Neural networks in R to deeply study the impact of different KPI’s and variables on churn, retention and improved conversion of B2B partners by 10%
 
-• Manipulated large data sets to extrapolate key business insights that led to 15% YOY growth
+•    Participated in the development of predictive analytics and modeling presentations and presented results/topics to customers (internal & external) and management as requested.
+
+•     Performed data wrangling tasks such as acquiring, cleaning, structuring, and enriching business data with Python/Jupyter and query-based languages -SQL
+
 
 ## ACADEMIC PROJECTS
 
